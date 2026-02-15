@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VogueVault AI",
+  "description": "An elegant, AI-powered wardrobe management system that helps you organize your clothing, analyze your style with Gemini, and generate perfect outfits for any occasion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
